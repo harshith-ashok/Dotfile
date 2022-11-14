@@ -1,4 +1,4 @@
-# Dotfile
+# Dotfiles
 My Black and White Rice
 
 [Post on Reddit](https://www.reddit.com/r/unixporn/comments/yuunth/i3_black_and_white/)
@@ -12,7 +12,8 @@ My Black and White Rice
 - Bar - Polybar
 - Browser - Brave
 - Editor - nvim (In screenshot)
-- Terminal - ZSH
+- Terminal - Kitty
+- Shell - OhMyZSH
 - Font - [Terminus Nerd Font](https://www.nerdfonts.com/)
 - Song - Black or White - Micheal Jakscon
 
